@@ -1,0 +1,17 @@
+header{
+    background-color: black;
+}
+
+.habitaciones{
+    text-align: justify;
+    line-height: 2em;
+}
+
+.carousel-img{
+    height: 70vh;
+}
+
+#map{
+    height: 50vh;
+    width: 100%;
+}
